@@ -1,0 +1,33 @@
+.banner2{
+    background-color: #FFA07A;
+    height: 1000px;
+
+    background-position: center top;
+    background-size: cover;
+}
+
+
+.carousel-inner
+{
+    height: 1000px;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 10%;
+}
+
+.aboutclass img
+{
+    height: 500px;
+    padding-left: 60%;
+    margin-top: auto;
+}
+
+.h1
+{
+    padding-top: 100px;
+}
+
+.h2
+{
+    padding-top: 10%;
+}
